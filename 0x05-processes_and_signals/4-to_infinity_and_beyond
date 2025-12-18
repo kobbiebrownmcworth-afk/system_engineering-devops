@@ -1,15 +1,2 @@
 #!/usr/bin/env bash
 # A Bash script that displays current time in 24-hour format
-[Got]
-
-(0 chars long)
-[stderr]: 
-(0 chars long)
-[Expected]
-To infinity and beyond
-To infinity and beyond
-To infinity and beyond
-
-(69 chars long)
-[stderr]: [Anything]
-(0 chars long)
