@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# A Bash script that displays current time in 24-hour 
-ps aux | tail -n +2
+# Lists processes with specific columns: user, start time, and command
+ps -eo user,start,command | tail -n +2
