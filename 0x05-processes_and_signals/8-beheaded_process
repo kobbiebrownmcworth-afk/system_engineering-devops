@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays current time in 24-hour format
+# Beheaded process
+
+pgrep -f 7-highlander | xargs kill -9
