@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Lists processes with specific columns: user, start time, and command
-ps -eo user,start,command | tail -n +2
+# A Bash script that displays all running processes in a tree-like format
+
+ps -auxf
