@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-# A Bash script that displays current time in 24-hour format
+# Don't stop me now
+
+pgrep -f 4-to_infinity_and_beyond | xargs kill
